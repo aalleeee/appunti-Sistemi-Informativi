@@ -1,4 +1,4 @@
-[[domande esame si ❓]]
+# Raccolta di domande e risposte provenienti da esami precedenti
 
 #### 📌 Che differenza c’è tra la legge MetCalfe e quella di Reed? Quali fenomeni catturano?
 La legge di MetCalfe analizza come il valore di una rete di comunicazione cresca in maniera quadratica rispetto al numero di componenti collegati alla rete, la legge individuata è quindi $V = N^2 - N$ con V valore della rete e N componenti.
