@@ -76,4 +76,4 @@ Svantaggi:
 ---
 L'opzione Outsource prevede di delegare la gestione del sistema informativo all'esterno
 
-Vantaggi e Svantaggi del modello Buy con meno costi, miglior connettività e importanza sicurezza ma con costi variabili ma alti
+Vantaggi e Svantaggi del modello Buy con meno costi, miglior connettività e importanza sicurezza ma con costi variabili ma alti 
